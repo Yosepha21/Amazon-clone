@@ -1,0 +1,31 @@
+.home__image{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
+}
+
+
+.home_row{
+    display: flex;
+    z-index: 1;
+    margin: 0 5px;
+    
+}
+.header-imageBanner{
+    display: flex;
+    /* here there are four picturs */
+   
+}
+h1{
+    margin: 0 10px;
+    padding: 20px 0;
+}
+.links{
+    text-decoration: none;
+    font-size: 27px;
+    color: rgb(50, 126, 173);
+}
+.links:hover{
+    color: rgb(223, 185, 128);
+}

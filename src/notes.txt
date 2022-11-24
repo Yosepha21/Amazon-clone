@@ -1,0 +1,106 @@
+** stripe links https://dashboard.stripe.com/test/apikeys
+ 
+
+ ** firebase= https://console.firebase.google.com/u/0/project/clone-7f3a2/firestore/data/~2F
+
+
+  ***to tender time = npm i moment
+  *** to run database= firebase emulators:start
+
+  ***********
+  From Elias Berhe to Everyone 08:56 PM
+  amazon
+  
+https://aug-bc35b.web.app/
+
+
+From Elias Berhe to Everyone 09:30 PM
+app.use(function (request, response, next) {
+    response.header("Access-Control-Allow-Origin", "*");
+    response.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  });
+From Elias Berhe to Everyone 09:36 PM
+CORS Unblock
+Allow CORS: Access-Control-Allow-Origin
+From Elias Berhe to Everyone 10:05 PM
+All 25 Interview Algorithms
+
+A. Searching
+1. Linear Search
+2. Binary Search
+3. Depth First Search
+4. Breadth First Search
+
+B. Sorting
+1. Insertion Sort
+2. Heap Sort
+3. Selection Sort
+4. Merge Sort
+5. Quick Sort
+6. Counting Sort
+
+C. Graphs
+1. Kruskal's Algo
+2. Dilkstra's Algo
+3. Bellman Ford Algo
+4. Floyd Warshall Algo
+5. Topological Sort Algo
+6.Flood Fill Algo
+7. Lee Algo
+
+D. Arrays
+1. Kadane's Algo
+2. Floyd's Cycle Detection Algo
+3. KMP Algo
+4. Quick Select Algo
+5. Boyer-More Majority Vote Algo
+
+E. Basics
+1. Huffman Coding Compression Algo
+2. Euclid's Algo
+3. Union Find Algo
+Project Ideas
+
+1. Calculator
+2. Quiz App
+3. Rock Paper Scissors
+4. Note App
+5. Stopwatch App 
+6. QR Code Reader
+7. Weather App
+8. Ecommerce Website
+9. Landing page
+10. Password generator
+11. Tic Tac Toe Game
+12. Link Shortener Website
+13. Drawing App
+14. Food Order Website
+15. Meme Generator
+16. Movie App
+17. Chat App
+18. Twitter Clone
+19. Survey App
+20. E-Book Site
+21. Instagram Clone
+22. WhatsApp Clone
+23. File Sharing App
+24. Parallax Website
+25. Job Search App
+26. Pinterest Clone
+27. Dating App
+28. Social Media DashBoard
+29. Tracker App
+30. Memory App
+31. Giphy Clone
+32. User Activity Tracker
+33. Stock-Trading App
+34. Chess Game
+35. Music Player
+36. To-Do List App
+37. Random User API
+38. Typing Speed Test
+From Elias Berhe to Everyone 10:29 PM
+https://ipapi.co/json/
+From Me to Everyone 10:38 PM
+https://ipapi.co/api/#introduction

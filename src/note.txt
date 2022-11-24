@@ -1,0 +1,10 @@
+*** deploy
+  firebase init
+  -npm run buid
+  -firebase deploy
+
+
+
+Teddy project
+
+https://aug-bc35b.web.app/
